@@ -1,0 +1,4 @@
+hostname = ftp.elemporioelectricidad.com 
+directorio = /home/u722144108/public_html 	
+usuario = u722144108.u722144108.leonardo 
+contraseña = LeoJavi1632

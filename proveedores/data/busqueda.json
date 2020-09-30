@@ -1,0 +1,490 @@
+{
+	"data": [
+	{
+	"DT_RowId": "1",
+	"codigo": "4052899973039",
+	"descripcion": "dicroica led gu10 4,5w osram",
+	"stock": "528 u",
+	"costo": "$ 47.82",
+	"venta": "$ 69.34",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "2",
+	"codigo": "7798171743194",
+	"descripcion": "dicroica led gu10 7w calido nocalucce",
+	"stock": "0 u",
+	"costo": "$ 68.54",
+	"venta": "$ 99.383",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "3",
+	"codigo": "7798171743200",
+	"descripcion": "dicroica led gu10 7w frio novalucce",
+	"stock": "100 u",
+	"costo": "$ 68.54",
+	"venta": "$ 99.383",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "4",
+	"codigo": "7798171742715",
+	"descripcion": "foco de led 10w calido novalucce",
+	"stock": "",
+	"costo": "$ 35.96",
+	"venta": "$ 52.142",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "5",
+	"codigo": "7798171744139",
+	"descripcion": "foco de led 15w calido novalucce",
+	"stock": "0 u",
+	"costo": "$ 79.69",
+	"venta": "$ 115.551",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "6",
+	"codigo": "7798171744160",
+	"descripcion": "foco de led 18w frio novalucce",
+	"stock": "0 u",
+	"costo": "$ 102.06",
+	"venta": "$ 147.99",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "7",
+	"codigo": "7798171740025",
+	"descripcion": "foco halogeno de 42w novalucce",
+	"stock": "0 u",
+	"costo": "$ 15.96",
+	"venta": "$ 23.142",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "8",
+	"codigo": "7798171740032",
+	"descripcion": "foco halogeno de 52w novalucce",
+	"stock": "0 u",
+	"costo": "$ 15.96",
+	"venta": "$ 23.142",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "9",
+	"codigo": "7798171740049",
+	"descripcion": "foco halogeno de 70w de novalucce",
+	"stock": "0 u",
+	"costo": "$ 15.96",
+	"venta": "$ 23.142",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "10",
+	"codigo": "7798171742722",
+	"descripcion": "foco led 10w novalucce",
+	"stock": "",
+	"costo": "$ 35.96",
+	"venta": "$ 52.142",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "11",
+	"codigo": "7798171742746",
+	"descripcion": "foco led 12w novalucce",
+	"stock": "7054 u",
+	"costo": "$ 43.75",
+	"venta": "$ 63.44",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "12",
+	"codigo": "8718696421437",
+	"descripcion": "foco led 14w philip calido",
+	"stock": "28 u",
+	"costo": "$ 35.06",
+	"venta": "$ 50.84",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "13",
+	"codigo": "7798171744146",
+	"descripcion": "foco led 15w frio novalucce",
+	"stock": "0 u",
+	"costo": "$ 79.69",
+	"venta": "$ 115.551",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "14",
+	"codigo": "7798171744214",
+	"descripcion": "foco led 27w novalucce",
+	"stock": "116 u",
+	"costo": "$ 246.96",
+	"venta": "$ 358.092",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "15",
+	"codigo": "7798171744221",
+	"descripcion": "foco led 35w novalucce",
+	"stock": "136 u",
+	"costo": "$ 367.92",
+	"venta": "$ 533.484",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "16",
+	"codigo": "7798171744481",
+	"descripcion": "foco led 55w novalucce",
+	"stock": "19 u",
+	"costo": "$ 624.96",
+	"venta": "$ 906.192",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "17",
+	"codigo": "124121245122",
+	"descripcion": "Foco LED 5w NOVALUCCE",
+	"stock": "3190 u",
+	"costo": "$ 32.08",
+	"venta": "$ 46.52",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "18",
+	"codigo": "7798171744504",
+	"descripcion": "foco led 75w novalucce",
+	"stock": "48 u",
+	"costo": "$ 725.76",
+	"venta": "$ 1052.35",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "19",
+	"codigo": "51518314",
+	"descripcion": "Foco LED 7w NOVALUCCE",
+	"stock": "0 u",
+	"costo": "$ 30.41",
+	"venta": "$ 44.0945",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "20",
+	"codigo": "7791772047593",
+	"descripcion": "foco led 7w sica",
+	"stock": "",
+	"costo": "$ 31.04",
+	"venta": "$ 45.008",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "21",
+	"codigo": "15181568456",
+	"descripcion": "Foco LED 9w NOVALUCCE",
+	"stock": "1000 u",
+	"costo": "$ 35.28",
+	"venta": "$ 51.16",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "22",
+	"codigo": "7798170653111",
+	"descripcion": "foco led de 28w frio alic",
+	"stock": "0 u",
+	"costo": "$ 170.95",
+	"venta": "$ 247.88",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "23",
+	"codigo": "7798170653135",
+	"descripcion": "foco led de 48w frio alic",
+	"stock": "21 u",
+	"costo": "$ 341.89",
+	"venta": "$ 495.741",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "24",
+	"codigo": "7798171742777",
+	"descripcion": "gota led 6w calido novalucce",
+	"stock": "50 u",
+	"costo": "$ 54.18",
+	"venta": "$ 78.561",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "25",
+	"codigo": "7798171742784",
+	"descripcion": "gota led 6w frio novalucce",
+	"stock": "0 u",
+	"costo": "$ 54.18",
+	"venta": "$ 78.561",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "26",
+	"codigo": "00001392",
+	"descripcion": "Liston para tubo led 18w (spl)",
+	"stock": "319 u",
+	"costo": "$ 100.8",
+	"venta": "$ 146.16",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "27",
+	"codigo": "7798171742937",
+	"descripcion": "luz de emergencia de 30 led novalucce",
+	"stock": "13 u",
+	"costo": "$ 575.82",
+	"venta": "$ 834.94",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "28",
+	"codigo": "7798171741992",
+	"descripcion": "luz de emergencia de 60 led novalucce",
+	"stock": "34 u",
+	"costo": "$ 882",
+	"venta": "$ 1278.9",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "29",
+	"codigo": "12598634",
+	"descripcion": "luz de emergencia portatil 24 led",
+	"stock": "12 u",
+	"costo": "$ 428.4",
+	"venta": "$ 621.18",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "30",
+	"codigo": "7798171742180",
+	"descripcion": "panel de led para embutir  24w 6.000k  redondo  no",
+	"stock": "35 u",
+	"costo": "$ 366.6",
+	"venta": "$ 531.57",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "31",
+	"codigo": "7798171742579",
+	"descripcion": "panel de led para embutir  de 24w 4.000k novalucce",
+	"stock": "19 u",
+	"costo": "$ 366.6",
+	"venta": "$ 531.57",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "32",
+	"codigo": "7798171742210",
+	"descripcion": "panel de led para embutir 12w 6.000k cuadrado",
+	"stock": "2 u",
+	"costo": "$ 191.27",
+	"venta": "$ 277.341",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "33",
+	"codigo": "7798171742562",
+	"descripcion": "panel de led para embutir 18w 4.000k cuadrado",
+	"stock": "6 u",
+	"costo": "$ 239.09",
+	"venta": "$ 346.68",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "34",
+	"codigo": "7798171742159",
+	"descripcion": "panel de led para embutir 18w 4.000k redondo",
+	"stock": "9 u",
+	"costo": "$ 241.48",
+	"venta": "$ 350.15",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "35",
+	"codigo": "7798171742135",
+	"descripcion": "panel de led para embutir de 12w 6.000k",
+	"stock": "11 u",
+	"costo": "$ 191.27",
+	"venta": "$ 277.341",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "36",
+	"codigo": "7798171742500",
+	"descripcion": "plafon  circular de led  18w 4.000k  novalucce",
+	"stock": "0 u",
+	"costo": "$ 283.72",
+	"venta": "$ 411.394",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "37",
+	"codigo": "7798171744405",
+	"descripcion": "plafon  circular de led 24w",
+	"stock": "6 u",
+	"costo": "$ 398.47",
+	"venta": "$ 577.796",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "38",
+	"codigo": "7798171742494",
+	"descripcion": "plafon circular de led 12w redondo 4.000k novalucc",
+	"stock": "45 u",
+	"costo": "$ 229.52",
+	"venta": "$ 339.69",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "39",
+	"codigo": "7798171742487",
+	"descripcion": "plafon cuadrado de led 12w 4.000 novalucce",
+	"stock": "20 u",
+	"costo": "$ 229.52",
+	"venta": "$ 332.804",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "40",
+	"codigo": "7798171742470",
+	"descripcion": "plafon cuadrado de led 18w 4.000k novalucce",
+	"stock": "0 u",
+	"costo": "$ 283.72",
+	"venta": "$ 411.394",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "41",
+	"codigo": "5156161668",
+	"descripcion": "Proyector 100w novalucce",
+	"stock": "17 u",
+	"costo": "$ 1464",
+	"venta": "$ 2122.8",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "42",
+	"codigo": "7798171743415",
+	"descripcion": "proyector de led  50w frio novalucce",
+	"stock": "6 u",
+	"costo": "$ 698",
+	"venta": "$ 1012.1",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "43",
+	"codigo": "7798171743354",
+	"descripcion": "proyector de led 10w calido novalucce",
+	"stock": "2 u",
+	"costo": "$ 205",
+	"venta": "$ 297.25",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "44",
+	"codigo": "7798171743361",
+	"descripcion": "proyector de led 10w frio novalucce",
+	"stock": "91 u",
+	"costo": "$ 205",
+	"venta": "$ 297.25",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "45",
+	"codigo": "7798171743416",
+	"descripcion": "proyector de led 200w frio novalucce",
+	"stock": "4 u",
+	"costo": "$ 5229",
+	"venta": "$ 7582.05",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "46",
+	"codigo": "7798171743385",
+	"descripcion": "proyector de led 20w frio novalucce",
+	"stock": "93 u",
+	"costo": "$ 331",
+	"venta": "$ 479.95",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "47",
+	"codigo": "7798171743408",
+	"descripcion": "proyector de led 30w frio  novalucce",
+	"stock": "56 u",
+	"costo": "$ 592.2",
+	"venta": "$ 858.69",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "48",
+	"codigo": "7798171745402",
+	"descripcion": "Proyector led 70w novalucce",
+	"stock": "24 u",
+	"costo": "$ 1285.2",
+	"venta": "$ 1863.54",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "49",
+	"codigo": "7798171745433",
+	"descripcion": "tubo led 18w colores novalucce",
+	"stock": "96 u",
+	"costo": "$ 176.4",
+	"venta": "$ 255.78",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "50",
+	"codigo": "7798171742975",
+	"descripcion": "tubo led 18w novalucce",
+	"stock": "182 u",
+	"costo": "$ 154.98",
+	"venta": "$ 224.721",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "51",
+	"codigo": "37798155334753",
+	"descripcion": "tubo led 18w spl",
+	"stock": "307 u",
+	"costo": "$ 97.81",
+	"venta": "$ 141.824",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "52",
+	"codigo": "7798171742968",
+	"descripcion": "tubo led 9w novalucce",
+	"stock": "210 u",
+	"costo": "$ 117.18",
+	"venta": "$ 169.911",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "53",
+	"codigo": "7798171742753",
+	"descripcion": "vela led 6w calido novalucce",
+	"stock": "0 u",
+	"costo": "$ 54.18",
+	"venta": "$ 78.561",
+	"ganancia": "45 %"
+	},
+	{
+	"DT_RowId": "54",
+	"codigo": "7798171743224",
+	"descripcion": "vela led 6w frio novalucce",
+	"stock": "200 u",
+	"costo": "$ 54.18",
+	"venta": "$ 78.561",
+	"ganancia": "45 %"
+	}
+	]
+}
